@@ -1,3 +1,6 @@
 
 server:
    port: 7073
+   
+test:
+   name: employee
