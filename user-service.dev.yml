@@ -1,1 +1,2 @@
-test=test config repo
+test:
+   default: test
