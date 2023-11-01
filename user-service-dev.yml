@@ -1,2 +1,2 @@
 test:
-   default: test
+   name: test name
